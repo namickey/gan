@@ -8,6 +8,8 @@ verify_ssl = true
 [packages]
 tensorflow = "==1.9.0"
 numpy = "==1.16.4"
+pillow = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.6"
