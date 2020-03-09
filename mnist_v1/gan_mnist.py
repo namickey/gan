@@ -6,7 +6,7 @@ import numpy as np
 import pickle as pkl
 from functools import partial
 
-EPOCHS = 100
+EPOCHS = 3
 BATCH_SIZE = 100
 LEARNING_RATE = 0.001
 ALPHA = 0.01

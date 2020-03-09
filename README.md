@@ -2,6 +2,9 @@
 gan training.
 
 ```
+check tensorflow version.
+https://pypi.org/pypi/tensorflow/json
+
 pipenv install tensorflow==1.9.0
 pipenv install numpy==1.16.4
 
